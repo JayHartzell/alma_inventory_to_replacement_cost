@@ -7,5 +7,7 @@ csv file output from a physical items subject area analyses.
 - must contain the columns: `Holding Id` `Mms Id` `Physical Item Id`
 - output as data > csv
 
+If you are running this in [Google Colab](colab.research.google.com), add a code cell at the top and run the following line of code: `pip install asyncio-throttle python-dotenv`
+
 ####
 [walkthrough](https://youtu.be/AsLT7uLX6_E)
